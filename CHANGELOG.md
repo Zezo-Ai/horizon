@@ -1,6 +1,14 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/horizon/compare/v5.48.1...5.x)
+## [Unreleased](https://github.com/laravel/horizon/compare/v5.48.2...5.x)
+
+## [v5.48.2](https://github.com/laravel/horizon/compare/v5.48.1...v5.48.2) - 2026-07-27
+
+* Bump axios from 1.16.0 to 1.18.0 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/horizon/pull/1796
+* [5.x] Fix `Laravel\Horizon\RedisQueue::later()` usage on Laravel 12.10 and lower. by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/horizon/pull/1798
+* [5.x] Fix `horizon:clear-metrics` clearing nothing on phpredis 6.1+ by [@ademola-emmanuel](https://github.com/ademola-emmanuel) in https://github.com/laravel/horizon/pull/1801
+* Bump actions/checkout from 7.0.0 to 7.0.1 in the github-actions group by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/horizon/pull/1805
+* Bump postcss from 8.5.13 to 8.5.23 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/horizon/pull/1803
 
 ## [v5.48.1](https://github.com/laravel/horizon/compare/v5.48.0...v5.48.1) - 2026-07-20
 
