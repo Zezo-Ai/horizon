@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/horizon/compare/v5.48.2...5.x)
+## [Unreleased](https://github.com/laravel/horizon/compare/v5.48.3...5.x)
+
+## [v5.48.3](https://github.com/laravel/horizon/compare/v5.48.2...v5.48.3) - 2026-08-10
+
+* [5.x] Fix `RedisQueue::later()` never passing the delay to the payload by [@lazerg](https://github.com/lazerg) in https://github.com/laravel/horizon/pull/1810
 
 ## [v5.48.2](https://github.com/laravel/horizon/compare/v5.48.1...v5.48.2) - 2026-07-27
 
